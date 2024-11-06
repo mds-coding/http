@@ -1,6 +1,6 @@
 {
   "license": "ISC",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "mdos-san",
   "name": "@mds-coding/http",
   "description": "Wrapper of all http package related to @mds-coding",
@@ -11,10 +11,10 @@
     "build": "tsc -p ./tsconfig.json"
   },
   "dependencies": {
-    "@mds-coding/http-handler-interface": "^2.0.0",
+    "@mds-coding/http-handler-interface": "^2.0.1",
     "@mds-coding/http-method": "^2.0.0",
     "@mds-coding/http-request": "^2.0.0",
-    "@mds-coding/http-response": "^1.0.0"
+    "@mds-coding/http-response": "^2.0.0"
   },
   "devDependencies": {
     "typescript": "^5.6.3"
