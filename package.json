@@ -2,7 +2,7 @@
   "license": "ISC",
   "version": "1.0.0",
   "author": "mdos-san",
-  "name": "@mds-coding/http-handler-interface",
+  "name": "@mds-coding/http",
   "description": "Interface to handle an http request",
   "type": "module",
   "main": "./build/index.js",
