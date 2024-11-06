@@ -1,0 +1,22 @@
+{
+  "license": "ISC",
+  "version": "0.0.0",
+  "author": "mdos-san",
+  "name": "@mds-coding/http-handler-interface",
+  "description": "Interface to handle an http request",
+  "type": "module",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "build": "tsc -p ./tsconfig.json"
+  },
+  "dependencies": {
+    "@mds-coding/http-handler-interface": "^2.0.0",
+    "@mds-coding/http-method": "^2.0.0",
+    "@mds-coding/http-request": "^1.0.0",
+    "@mds-coding/http-response": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
