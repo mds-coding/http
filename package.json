@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "mdos-san",
   "name": "@mds-coding/http",
-  "description": "Interface to handle an http request",
+  "description": "Wrapper of all http package related to @mds-coding",
   "type": "module",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -13,7 +13,7 @@
   "dependencies": {
     "@mds-coding/http-handler-interface": "^2.0.0",
     "@mds-coding/http-method": "^2.0.0",
-    "@mds-coding/http-request": "^1.0.0",
+    "@mds-coding/http-request": "^2.0.0",
     "@mds-coding/http-response": "^1.0.0"
   },
   "devDependencies": {
